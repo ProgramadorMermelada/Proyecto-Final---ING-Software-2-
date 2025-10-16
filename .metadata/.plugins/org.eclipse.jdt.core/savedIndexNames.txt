@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\js123\Downloads\Programacion\Proyecto final ING de Software 2\Pagina-DayTrading-Andina\.metadata\.plugins\org.eclipse.jdt.core
+2944353370.index
+1865797976.index
+1389833423.index
+3091576032.index

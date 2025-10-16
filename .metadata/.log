@@ -1,0 +1,113 @@
+!SESSION 2025-10-16 17:30:18.401 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_MX
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\js123\Downloads\Programacion\Proyecto final ING de Software 2\Pagina-DayTrading-Andina -data C:\Users\js123\Downloads\Programacion\Proyecto final ING de Software 2\Pagina-DayTrading-Andina
+
+!ENTRY ch.qos.logback.classic 1 0 2025-10-16 17:30:21.451
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-10-16 17:30:22.802
+!MESSAGE Logback config file: C:\Users\js123\Downloads\Programacion\Proyecto final ING de Software 2\Pagina-DayTrading-Andina\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-10-16 17:30:29.330
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\js123'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface 2 0 2025-10-16 17:30:30.653
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-10-16 17:30:30.653
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,Run RAP Application,
+		Run RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.rap.tools.launch.RAPLaunchShortcut.run"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.wst.server.launchShortcut.run"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-10-16 17:30:30.653
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,Debug RAP Application,
+		Debug RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.wst.server.launchShortcut.debug"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-10-16 17:34:17.273
+!MESSAGE Classpath changed for project: microservicio-login
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-10-16 17:34:20.707
+!MESSAGE Classpath changed for project: microservicio-login
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-10-16 17:34:20.712
+!MESSAGE Boot project ADDED: microservicio-login
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-10-16 17:34:20.717
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-10-16 17:34:20.777
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-10-16 17:34:20.850
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\js123\Downloads\Programacion\Eclipse\Eclipse Java Enterprise JDK 19 w Apache\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.1.v20241024-1700\jre\bin\javaw.exe
+-cp
+C:\Users\js123\Downloads\Programacion\Eclipse\Eclipse Java Enterprise JDK 19 w Apache\eclipse\plugins\org.springframework.tooling.boot.ls_1.51.0.202312011752\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\js123\Downloads\Programacion\Eclipse\Eclipse Java Enterprise JDK 19 w Apache\eclipse\plugins\org.springframework.tooling.boot.ls_1.51.0.202312011752\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\js123\Downloads\Programacion\Eclipse\Eclipse Java Enterprise JDK 19 w Apache\eclipse\plugins\org.springframework.tooling.boot.ls_1.51.0.202312011752\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/js123/Downloads/Programacion/Proyecto final ING de Software 2/Pagina-DayTrading-Andina/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1760654060835
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-10-16 17:34:20.854
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-10-16 17:34:20.866
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 33192
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-10-16 17:34:21.805
+!MESSAGE Classpath changed for project: microservicio-login
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-10-16 17:34:34.856
+!MESSAGE Classpath changed for project: microservicio-inversionista
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-10-16 17:34:34.858
+!MESSAGE Boot project ADDED: microservicio-inversionista
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-10-16 17:34:46.296
+!MESSAGE Classpath changed for project: microservicio-comisionista
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-10-16 17:34:46.298
+!MESSAGE Boot project ADDED: microservicio-comisionista
