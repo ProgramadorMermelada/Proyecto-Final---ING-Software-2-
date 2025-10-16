@@ -1,1 +1,31 @@
 2025-10-16 17:30:29,180 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-10-16 17:34:19,096 [Worker-41: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.andina:microservicio-login:0.0.1-SNAPSHOT @ C:\Users\js123\Downloads\Programacion\Proyecto final ING de Software 2\Pagina-DayTrading-Andina\microservicio-login\pom.xml.
+2025-10-16 17:34:20,929 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-login/src/main/java
+2025-10-16 17:34:20,929 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-login/src/main/resources
+2025-10-16 17:34:20,945 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-login/src/main/resources
+2025-10-16 17:34:20,962 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-login/src/test/java
+2025-10-16 17:34:20,971 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-login/src/test/resources
+2025-10-16 17:34:21,798 [Worker-41: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2025-10-16 17:34:23,588 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 17:34:23,622 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 17:34:23,627 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\js123\Downloads\Programacion\Proyecto final ING de Software 2\Pagina-DayTrading-Andina\microservicio-login\src\test\resources
+2025-10-16 17:34:34,017 [Worker-24: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.andina:microservicio-inversionista:0.0.1-SNAPSHOT @ C:\Users\js123\Downloads\Programacion\Proyecto final ING de Software 2\Pagina-DayTrading-Andina\microservicio-inversionista\pom.xml.
+2025-10-16 17:34:34,574 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-inversionista/src/main/java
+2025-10-16 17:34:34,575 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-inversionista/src/main/resources
+2025-10-16 17:34:34,577 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-inversionista/src/main/resources
+2025-10-16 17:34:34,577 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-inversionista/src/test/java
+2025-10-16 17:34:34,578 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-inversionista/src/test/resources
+2025-10-16 17:34:34,845 [Worker-24: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-10-16 17:34:35,406 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 17:34:35,447 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 17:34:35,452 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\js123\Downloads\Programacion\Proyecto final ING de Software 2\Pagina-DayTrading-Andina\microservicio-inversionista\src\test\resources
+2025-10-16 17:34:45,544 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.andina:microservicio-comisionista:0.0.1-SNAPSHOT @ C:\Users\js123\Downloads\Programacion\Proyecto final ING de Software 2\Pagina-DayTrading-Andina\microservicio-comisionista\pom.xml.
+2025-10-16 17:34:46,044 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-comisionista/src/main/java
+2025-10-16 17:34:46,045 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-comisionista/src/main/resources
+2025-10-16 17:34:46,045 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-comisionista/src/main/resources
+2025-10-16 17:34:46,045 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-comisionista/src/test/java
+2025-10-16 17:34:46,046 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-comisionista/src/test/resources
+2025-10-16 17:34:46,288 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-10-16 17:34:46,603 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 17:34:46,614 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 17:34:46,618 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\js123\Downloads\Programacion\Proyecto final ING de Software 2\Pagina-DayTrading-Andina\microservicio-comisionista\src\test\resources
