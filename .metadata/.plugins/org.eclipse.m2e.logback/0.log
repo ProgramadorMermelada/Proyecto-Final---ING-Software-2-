@@ -1058,3 +1058,4 @@ Caused by: java.lang.Exception: Could not set the project description for 'awdna
 2025-11-06 19:22:46,365 [Worker-14: Launching Executing install in C__Users_js123_Downloads_Programacion_Proyecto final ING de Software 2_Pagina-DayTrading-Andina_microservicio-comisionista] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
 2025-11-06 19:24:53,012 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-11-06 19:24:53,038 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\js123\Downloads\Programacion\Proyecto final ING de Software 2\Pagina-DayTrading-Andina\microservicio-comisionista\src\test\resources
+2025-11-11 19:48:34,962 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
